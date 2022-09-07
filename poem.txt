@@ -5,7 +5,8 @@ Pink
 Orange
 Blue 
 unicorn
+fairy
 Red
 These are the colors of the rainbow
 and unicorns
-
+and fairies 
